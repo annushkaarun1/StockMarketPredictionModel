@@ -18,5 +18,5 @@ Create Backtesting Engine 🔄 – To better assess model accuracy over time, we
 
 Improve the Model 🎯 – We'll enhance model performance by adding predictor columns and fine-tuning parameters.
 
-##Data used
+## 📊 Data used
 In this project, I used the S&P500 data csv file found in the repo
