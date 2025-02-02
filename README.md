@@ -4,19 +4,19 @@
 
 Built a machine learning model to predict the price of the S&P 500. Journey follows these steps:
 
-Download Data 📊 – Using the yfinance package, we'll gather historical stock data.
+Download Data 📊 – Using the yfinance package, I gathered historical stock data.
 
-Clean and Visualize Data 📉 – We'll process the raw data, handle missing values, and create visualizations to understand trends.
+Clean and Visualize Data 📉 – Process the raw data, handle missing values, and create visualizations to understand trends.
 
-Set Up Machine Learning Model 🤖 – We'll configure an initial machine learning model.
+Set Up Machine Learning Model 🤖 – Configure an initial machine learning model.
 
-Train Initial Model 🎓 – Our model will be trained on historical stock data.
+Train Initial Model 🎓 – Model will be trained on historical stock data.
 
-Evaluate Error ⚠️ – We'll measure the model's performance using error metrics.
+Evaluate Error ⚠️ – Measure the model's performance using error metrics.
 
-Create Backtesting Engine 🔄 – To better assess model accuracy over time, we'll develop a backtesting framework.
+Create Backtesting Engine 🔄 – To better assess model accuracy over time, develop a backtesting framework.
 
-Improve the Model 🎯 – We'll enhance model performance by adding predictor columns and fine-tuning parameters.
+Improve the Model 🎯 – Enhance model performance by adding predictor columns and fine-tuning parameters.
 
 ## 📊 Data used
 In this project, I used the S&P500 data csv file found in the repo
